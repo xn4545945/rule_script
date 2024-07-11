@@ -1,0 +1,6 @@
+payload:
+  - '+.amz123.com'   #- DOMAIN-SUFFIX,amz123.com,DIRECT #跨境导航网
+  - '+.crxsoso.com'  #
+  - '+.zaobao.com'   #
+  - '+.microsofttranslator.com'   #微软是直连, 这个微软翻译也要直连. 否则翻译服务无法使用.(机场那个默认设置把这网址设置为代理了)
+  - '+.iiilab.com'   #油管视频解析
